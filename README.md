@@ -1,4 +1,4 @@
-﻿# OfficeAnyService Updates
+# OfficeAnyService Updates
 
 This public repository hosts the update channel for OfficeAnyService.
 
