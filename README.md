@@ -2,8 +2,7 @@
 
 This public repository hosts the update channel for OfficeAnyService.
 
-- Latest version: 2.6.3
-- Installer: [OfficeAnyService_Setup_v2.6.3.exe](https://raw.githubusercontent.com/alzaremh/OfficeAnyService-Updates/main/OfficeAnyService_Setup_v2.6.3.exe)
-- Release notes: [v2.6.3](https://github.com/alzaremh/OfficeAnyService-Updates/blob/main/releases/v2.6.3/RELEASE_NOTES_AR.md)
-- Quick guide: [QUICK_USER_GUIDE_AR.md](https://github.com/alzaremh/OfficeAnyService-Updates/blob/main/releases/v2.6.3/QUICK_USER_GUIDE_AR.md)
+- Latest version: 2.6.4
+- Installer: [OfficeAnyService-win-Setup.exe](https://github.com/alzaremh/OfficeAnyService-Updates/releases/download/v2.6.4/OfficeAnyService-win-Setup.exe)
+- Release notes: [v2.6.4](https://github.com/alzaremh/OfficeAnyService-Updates/releases/tag/v2.6.4)
 - Manifest URL: [https://raw.githubusercontent.com/alzaremh/OfficeAnyService-Updates/main/update-latest.json](https://raw.githubusercontent.com/alzaremh/OfficeAnyService-Updates/main/update-latest.json)
