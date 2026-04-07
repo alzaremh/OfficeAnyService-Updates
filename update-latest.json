@@ -1,5 +1,5 @@
 {
   "version": "2.6.6",
-  "installerUrl": "https://raw.githubusercontent.com/alzaremh/OfficeAnyService-Updates/main/OfficeAnyService_Setup_v2.6.6.exe",
-  "releaseNotesUrl": "https://github.com/alzaremh/OfficeAnyService/blob/master/docs/releases/v2.6.6/RELEASE_NOTES_AR.md"
+  "installerUrl": "https://github.com/alzaremh/OfficeAnyService-Updates/releases/download/v2.6.6/OfficeAnyService_Setup_v2.6.6.exe",
+  "releaseNotesUrl": "https://github.com/alzaremh/OfficeAnyService-Updates/releases/tag/v2.6.6"
 }
